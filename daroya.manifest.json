@@ -1,0 +1,14 @@
+{
+  "project": "DAROYA",
+  "version": "2.0.0",
+  "publicMeaning": "A journey beyond the horizon.",
+  "included": "Complete interactive showcase build with 3D cosmic background, timeline, archive search/filtering, launcher and mission layers, India space-centre layer, future 2047 section, responsive styling and source links.",
+  "dataRecords": {
+    "spacecraft": 50,
+    "missions": 9,
+    "launches": 24,
+    "launchers": 8,
+    "timelineEvents": 21,
+    "centres": 8
+  }
+}

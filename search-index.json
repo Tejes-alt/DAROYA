@@ -1,0 +1,749 @@
+{
+  "generatedAt": "2026-08-15T00:20:44.954Z",
+  "count": 110,
+  "entries": [
+    {
+      "kind": "spacecraft",
+      "id": "aryabhata",
+      "title": "Aryabhata",
+      "subtitle": "Science · C-1 Intercosmos",
+      "year": 1975
+    },
+    {
+      "kind": "spacecraft",
+      "id": "rohini-tech",
+      "title": "Rohini Technology Payload",
+      "subtitle": "Technology · SLV-3E1",
+      "year": 1979
+    },
+    {
+      "kind": "spacecraft",
+      "id": "rs1",
+      "title": "Rohini RS-1",
+      "subtitle": "Technology · SLV-3E2",
+      "year": 1980
+    },
+    {
+      "kind": "spacecraft",
+      "id": "apple",
+      "title": "APPLE",
+      "subtitle": "Communication · Ariane-1",
+      "year": 1981
+    },
+    {
+      "kind": "spacecraft",
+      "id": "insat-1b",
+      "title": "INSAT-1B",
+      "subtitle": "Communication · Space Shuttle Challenger",
+      "year": 1983
+    },
+    {
+      "kind": "spacecraft",
+      "id": "irs-1a",
+      "title": "IRS-1A",
+      "subtitle": "Earth Observation · Vostok",
+      "year": 1988
+    },
+    {
+      "kind": "spacecraft",
+      "id": "insat-2a",
+      "title": "INSAT-2A",
+      "subtitle": "Communication · Ariane-44L H10",
+      "year": 1992
+    },
+    {
+      "kind": "spacecraft",
+      "id": "irs-p2",
+      "title": "IRS-P2",
+      "subtitle": "Earth Observation · PSLV-D2",
+      "year": 1994
+    },
+    {
+      "kind": "spacecraft",
+      "id": "irs-1d",
+      "title": "IRS-1D",
+      "subtitle": "Earth Observation · PSLV-C1",
+      "year": 1997
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-1",
+      "title": "GSAT-1",
+      "subtitle": "Communication · GSLV-D1",
+      "year": 2001
+    },
+    {
+      "kind": "spacecraft",
+      "id": "kalpana-1",
+      "title": "Kalpana-1",
+      "subtitle": "Earth Observation · PSLV-C4",
+      "year": 2002
+    },
+    {
+      "kind": "spacecraft",
+      "id": "cartosat-1",
+      "title": "Cartosat-1",
+      "subtitle": "Earth Observation · PSLV-C6",
+      "year": 2005
+    },
+    {
+      "kind": "spacecraft",
+      "id": "insat-4a",
+      "title": "INSAT-4A",
+      "subtitle": "Communication · Ariane-5",
+      "year": 2005
+    },
+    {
+      "kind": "spacecraft",
+      "id": "cartosat-2",
+      "title": "Cartosat-2",
+      "subtitle": "Earth Observation · PSLV-C7",
+      "year": 2007
+    },
+    {
+      "kind": "spacecraft",
+      "id": "chandrayaan-1",
+      "title": "Chandrayaan-1",
+      "subtitle": "Lunar · PSLV-C11",
+      "year": 2008
+    },
+    {
+      "kind": "spacecraft",
+      "id": "risat-2",
+      "title": "RISAT-2",
+      "subtitle": "Earth Observation · PSLV-C12",
+      "year": 2009
+    },
+    {
+      "kind": "spacecraft",
+      "id": "oceansat-2",
+      "title": "Oceansat-2",
+      "subtitle": "Earth Observation · PSLV-C14",
+      "year": 2009
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-4",
+      "title": "GSAT-4",
+      "subtitle": "Communication · GSLV-D3",
+      "year": 2010
+    },
+    {
+      "kind": "spacecraft",
+      "id": "resourcesat-2",
+      "title": "Resourcesat-2",
+      "subtitle": "Earth Observation · PSLV-C16",
+      "year": 2011
+    },
+    {
+      "kind": "spacecraft",
+      "id": "megha-tropiques",
+      "title": "Megha-Tropiques",
+      "subtitle": "Science · PSLV-C18",
+      "year": 2011
+    },
+    {
+      "kind": "spacecraft",
+      "id": "risat-1",
+      "title": "RISAT-1",
+      "subtitle": "Earth Observation · PSLV-C19",
+      "year": 2012
+    },
+    {
+      "kind": "spacecraft",
+      "id": "saral",
+      "title": "SARAL",
+      "subtitle": "Science · PSLV-C20",
+      "year": 2013
+    },
+    {
+      "kind": "spacecraft",
+      "id": "mangalyaan",
+      "title": "Mars Orbiter Mission",
+      "subtitle": "Planetary · PSLV-C25",
+      "year": 2013
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-14",
+      "title": "GSAT-14",
+      "subtitle": "Communication · GSLV-D5",
+      "year": 2014
+    },
+    {
+      "kind": "spacecraft",
+      "id": "astrosat",
+      "title": "AstroSat",
+      "subtitle": "Science · PSLV-C30",
+      "year": 2015
+    },
+    {
+      "kind": "spacecraft",
+      "id": "scatsat-1",
+      "title": "SCATSAT-1",
+      "subtitle": "Earth Observation · PSLV-C35",
+      "year": 2016
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-17",
+      "title": "GSAT-17",
+      "subtitle": "Communication · Ariane-5",
+      "year": 2017
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-19",
+      "title": "GSAT-19",
+      "subtitle": "Communication · GSLV Mk III-D1",
+      "year": 2017
+    },
+    {
+      "kind": "spacecraft",
+      "id": "navic-1",
+      "title": "IRNSS-1A",
+      "subtitle": "Navigation · PSLV-C22",
+      "year": 2013
+    },
+    {
+      "kind": "spacecraft",
+      "id": "navic-2",
+      "title": "IRNSS-1B",
+      "subtitle": "Navigation · PSLV-C24",
+      "year": 2014
+    },
+    {
+      "kind": "spacecraft",
+      "id": "navic-3",
+      "title": "IRNSS-1C",
+      "subtitle": "Navigation · PSLV-C26",
+      "year": 2014
+    },
+    {
+      "kind": "spacecraft",
+      "id": "chandrayaan-2",
+      "title": "Chandrayaan-2",
+      "subtitle": "Lunar · GSLV Mk III M1",
+      "year": 2019
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gsat-7a",
+      "title": "GSAT-7A",
+      "subtitle": "Communication · GSLV-F11",
+      "year": 2018
+    },
+    {
+      "kind": "spacecraft",
+      "id": "emissat",
+      "title": "EMISAT",
+      "subtitle": "Technology · PSLV-C45",
+      "year": 2019
+    },
+    {
+      "kind": "spacecraft",
+      "id": "cartosat-3",
+      "title": "Cartosat-3",
+      "subtitle": "Earth Observation · PSLV-C47",
+      "year": 2019
+    },
+    {
+      "kind": "spacecraft",
+      "id": "gisat-1",
+      "title": "EOS-03",
+      "subtitle": "Earth Observation · GSLV-F10",
+      "year": 2021
+    },
+    {
+      "kind": "spacecraft",
+      "id": "eos-04",
+      "title": "EOS-04 (RISAT-1A)",
+      "subtitle": "Earth Observation · PSLV-C52",
+      "year": 2022
+    },
+    {
+      "kind": "spacecraft",
+      "id": "eos-06",
+      "title": "EOS-06 (Oceansat-3)",
+      "subtitle": "Earth Observation · PSLV-C54",
+      "year": 2022
+    },
+    {
+      "kind": "spacecraft",
+      "id": "chandrayaan-3",
+      "title": "Chandrayaan-3",
+      "subtitle": "Lunar · LVM3-M4",
+      "year": 2023
+    },
+    {
+      "kind": "spacecraft",
+      "id": "nvs-01",
+      "title": "NVS-01",
+      "subtitle": "Navigation · GSLV-F12",
+      "year": 2023
+    },
+    {
+      "kind": "spacecraft",
+      "id": "aditya-l1",
+      "title": "Aditya-L1",
+      "subtitle": "Solar · PSLV-C57",
+      "year": 2023
+    },
+    {
+      "kind": "spacecraft",
+      "id": "xposat",
+      "title": "XPoSat",
+      "subtitle": "Science · PSLV-C58",
+      "year": 2024
+    },
+    {
+      "kind": "spacecraft",
+      "id": "eos-08",
+      "title": "EOS-08",
+      "subtitle": "Earth Observation · SSLV-D3",
+      "year": 2024
+    },
+    {
+      "kind": "spacecraft",
+      "id": "insat-3ds",
+      "title": "INSAT-3DS",
+      "subtitle": "Earth Observation · GSLV-F14",
+      "year": 2024
+    },
+    {
+      "kind": "spacecraft",
+      "id": "spadex-a",
+      "title": "SpaDeX-A",
+      "subtitle": "Technology · PSLV-C60",
+      "year": 2024
+    },
+    {
+      "kind": "spacecraft",
+      "id": "spadex-b",
+      "title": "SpaDeX-B",
+      "subtitle": "Technology · PSLV-C60",
+      "year": 2024
+    },
+    {
+      "kind": "spacecraft",
+      "id": "nisar",
+      "title": "NISAR",
+      "subtitle": "Earth Observation · GSLV-F16",
+      "year": 2025
+    },
+    {
+      "kind": "spacecraft",
+      "id": "nvs-02",
+      "title": "NVS-02",
+      "subtitle": "Navigation · GSLV-F15",
+      "year": 2025
+    },
+    {
+      "kind": "spacecraft",
+      "id": "eos-09",
+      "title": "RISAT-1B (EOS-09)",
+      "subtitle": "Earth Observation · PSLV-C61",
+      "year": 2025
+    },
+    {
+      "kind": "spacecraft",
+      "id": "eos-n1",
+      "title": "ANVESHA (EOS-N1)",
+      "subtitle": "Earth Observation · PSLV-C62",
+      "year": 2026
+    },
+    {
+      "kind": "mission",
+      "id": "chandrayaan-1",
+      "title": "Chandrayaan-1",
+      "subtitle": "Moon",
+      "year": 2008
+    },
+    {
+      "kind": "mission",
+      "id": "mars-orbiter",
+      "title": "Mars Orbiter Mission",
+      "subtitle": "Mars",
+      "year": 2013
+    },
+    {
+      "kind": "mission",
+      "id": "astrosat",
+      "title": "AstroSat",
+      "subtitle": "Low Earth Orbit",
+      "year": 2015
+    },
+    {
+      "kind": "mission",
+      "id": "chandrayaan-2",
+      "title": "Chandrayaan-2",
+      "subtitle": "Moon",
+      "year": 2019
+    },
+    {
+      "kind": "mission",
+      "id": "chandrayaan-3",
+      "title": "Chandrayaan-3",
+      "subtitle": "Moon",
+      "year": 2023
+    },
+    {
+      "kind": "mission",
+      "id": "aditya-l1",
+      "title": "Aditya-L1",
+      "subtitle": "Sun–Earth L1",
+      "year": 2023
+    },
+    {
+      "kind": "mission",
+      "id": "xposat",
+      "title": "XPoSat",
+      "subtitle": "Low Earth Orbit",
+      "year": 2024
+    },
+    {
+      "kind": "mission",
+      "id": "spadex",
+      "title": "SpaDeX",
+      "subtitle": "Low Earth Orbit",
+      "year": 2024
+    },
+    {
+      "kind": "mission",
+      "id": "gaganyaan",
+      "title": "Gaganyaan",
+      "subtitle": "Low Earth Orbit",
+      "year": 2020
+    },
+    {
+      "kind": "launch",
+      "id": "l105",
+      "title": "PSLV-C62 / EOS-N1 Mission",
+      "subtitle": "ANVESHA (EOS-N1)",
+      "year": 2026
+    },
+    {
+      "kind": "launch",
+      "id": "l104",
+      "title": "LVM3-M6 / BlueBird Block-2 Mission",
+      "subtitle": "BlueBird Block 2",
+      "year": 2025
+    },
+    {
+      "kind": "launch",
+      "id": "l103",
+      "title": "LVM3-M5 / CMS-03 Mission",
+      "subtitle": "CMS-03",
+      "year": 2025
+    },
+    {
+      "kind": "launch",
+      "id": "l102",
+      "title": "GSLV-F16 / NISAR Mission",
+      "subtitle": "NISAR",
+      "year": 2025
+    },
+    {
+      "kind": "launch",
+      "id": "l101",
+      "title": "PSLV-C61 / EOS-09 Mission",
+      "subtitle": "EOS-09",
+      "year": 2025
+    },
+    {
+      "kind": "launch",
+      "id": "l100",
+      "title": "GSLV-F15 / NVS-02 Mission",
+      "subtitle": "NVS-02",
+      "year": 2025
+    },
+    {
+      "kind": "launch",
+      "id": "l099",
+      "title": "PSLV-C60 / SpaDeX Mission",
+      "subtitle": "SpaDeX-A, SpaDeX-B, POEM-4",
+      "year": 2024
+    },
+    {
+      "kind": "launch",
+      "id": "l098",
+      "title": "PSLV-C59 / Proba-3 Mission",
+      "subtitle": "Proba-3",
+      "year": 2024
+    },
+    {
+      "kind": "launch",
+      "id": "l097",
+      "title": "SSLV-D3 / EOS-08 Mission",
+      "subtitle": "EOS-08",
+      "year": 2024
+    },
+    {
+      "kind": "launch",
+      "id": "l096",
+      "title": "GSLV-F14 / INSAT-3DS Mission",
+      "subtitle": "INSAT-3DS",
+      "year": 2024
+    },
+    {
+      "kind": "launch",
+      "id": "l095",
+      "title": "PSLV-C58 / XPoSat Mission",
+      "subtitle": "XPoSat",
+      "year": 2024
+    },
+    {
+      "kind": "launch",
+      "id": "l094",
+      "title": "PSLV-C57 / Aditya-L1 Mission",
+      "subtitle": "Aditya-L1",
+      "year": 2023
+    },
+    {
+      "kind": "launch",
+      "id": "l092",
+      "title": "LVM3-M4 / Chandrayaan-3 Mission",
+      "subtitle": "Chandrayaan-3",
+      "year": 2023
+    },
+    {
+      "kind": "launch",
+      "id": "l091",
+      "title": "GSLV-F12 / NVS-01 Mission",
+      "subtitle": "NVS-01",
+      "year": 2023
+    },
+    {
+      "kind": "launch",
+      "id": "l088",
+      "title": "SSLV-D2 / EOS-07 Mission",
+      "subtitle": "EOS-07",
+      "year": 2023
+    },
+    {
+      "kind": "launch",
+      "id": "l086",
+      "title": "LVM3-M2 / OneWeb India-1 Mission",
+      "subtitle": "OneWeb Gen-1",
+      "year": 2022
+    },
+    {
+      "kind": "launch",
+      "id": "l083",
+      "title": "PSLV-C52 / EOS-04 Mission",
+      "subtitle": "EOS-04",
+      "year": 2022
+    },
+    {
+      "kind": "launch",
+      "id": "l082",
+      "title": "GSLV-F10 / EOS-03 Mission",
+      "subtitle": "EOS-03",
+      "year": 2021
+    },
+    {
+      "kind": "launch",
+      "id": "l079",
+      "title": "PSLV-C47 / Cartosat-3 Mission",
+      "subtitle": "Cartosat-3 and rideshares",
+      "year": 2019
+    },
+    {
+      "kind": "launch",
+      "id": "l078",
+      "title": "GSLV Mk III M1 / Chandrayaan-2 Mission",
+      "subtitle": "Chandrayaan-2",
+      "year": 2019
+    },
+    {
+      "kind": "launch",
+      "id": "l070",
+      "title": "PSLV-C30 / AstroSat Mission",
+      "subtitle": "AstroSat",
+      "year": 2015
+    },
+    {
+      "kind": "launch",
+      "id": "l062",
+      "title": "PSLV-C25 / Mars Orbiter Mission",
+      "subtitle": "Mars Orbiter Mission",
+      "year": 2013
+    },
+    {
+      "kind": "launch",
+      "id": "l060",
+      "title": "PSLV-C11 / Chandrayaan-1 Mission",
+      "subtitle": "Chandrayaan-1",
+      "year": 2008
+    },
+    {
+      "kind": "launch",
+      "id": "l055",
+      "title": "PSLV-C6 / Cartosat-1 Mission",
+      "subtitle": "Cartosat-1",
+      "year": 2005
+    },
+    {
+      "kind": "launcher",
+      "id": "sounding",
+      "title": "Rohini Sounding Rockets",
+      "subtitle": "Atmospheric and technology experiments"
+    },
+    {
+      "kind": "launcher",
+      "id": "slv",
+      "title": "SLV-3",
+      "subtitle": "Experimental satellite launch vehicle"
+    },
+    {
+      "kind": "launcher",
+      "id": "aslv",
+      "title": "ASLV",
+      "subtitle": "Technology development"
+    },
+    {
+      "kind": "launcher",
+      "id": "pslv",
+      "title": "PSLV",
+      "subtitle": "Polar, Sun-synchronous and multi-payload launches"
+    },
+    {
+      "kind": "launcher",
+      "id": "gslv",
+      "title": "GSLV",
+      "subtitle": "Geosynchronous transfer orbit"
+    },
+    {
+      "kind": "launcher",
+      "id": "lvm3",
+      "title": "LVM3",
+      "subtitle": "Heavy lift / GTO / lunar missions"
+    },
+    {
+      "kind": "launcher",
+      "id": "sslv",
+      "title": "SSLV",
+      "subtitle": "Small satellite launch"
+    },
+    {
+      "kind": "launcher",
+      "id": "rlv",
+      "title": "RLV technology demonstrations",
+      "subtitle": "Reusable launch vehicle technology"
+    },
+    {
+      "kind": "centre",
+      "id": "shar",
+      "title": "SDSC SHAR",
+      "subtitle": "Sriharikota"
+    },
+    {
+      "kind": "centre",
+      "id": "vssc",
+      "title": "VSSC",
+      "subtitle": "Thiruvananthapuram"
+    },
+    {
+      "kind": "centre",
+      "id": "ursc",
+      "title": "URSC",
+      "subtitle": "Bengaluru"
+    },
+    {
+      "kind": "centre",
+      "id": "sac",
+      "title": "SAC",
+      "subtitle": "Ahmedabad"
+    },
+    {
+      "kind": "centre",
+      "id": "lpsc",
+      "title": "LPSC",
+      "subtitle": "Thiruvananthapuram"
+    },
+    {
+      "kind": "centre",
+      "id": "iprc",
+      "title": "IPRC",
+      "subtitle": "Mahendragiri"
+    },
+    {
+      "kind": "centre",
+      "id": "issdc",
+      "title": "ISSDC",
+      "subtitle": "Byalalu"
+    },
+    {
+      "kind": "centre",
+      "id": "mcf",
+      "title": "MCF",
+      "subtitle": "Hassan / Bhopal"
+    },
+    {
+      "kind": "person",
+      "id": "vikram-sarabhai",
+      "title": "Vikram Sarabhai",
+      "subtitle": "Founder of the Indian space programme"
+    },
+    {
+      "kind": "person",
+      "id": "homi-bhabha",
+      "title": "Homi J. Bhabha",
+      "subtitle": "Founding figure of Indian atomic and space research institutions"
+    },
+    {
+      "kind": "person",
+      "id": "satish-dhawan",
+      "title": "Satish Dhawan",
+      "subtitle": "Chairman, ISRO (1972–1984)"
+    },
+    {
+      "kind": "person",
+      "id": "apj-abdul-kalam",
+      "title": "A. P. J. Abdul Kalam",
+      "subtitle": "Project Director, SLV-3"
+    },
+    {
+      "kind": "person",
+      "id": "u-r-rao",
+      "title": "U. R. Rao",
+      "subtitle": "Chairman, ISRO (1984–1994)"
+    },
+    {
+      "kind": "person",
+      "id": "k-radhakrishnan",
+      "title": "K. Radhakrishnan",
+      "subtitle": "Chairman, ISRO (2009–2014)"
+    },
+    {
+      "kind": "person",
+      "id": "k-sivan",
+      "title": "K. Sivan",
+      "subtitle": "Chairman, ISRO (2018–2022)"
+    },
+    {
+      "kind": "person",
+      "id": "s-somanath",
+      "title": "S. Somanath",
+      "subtitle": "Chairman, ISRO (2022–2025)"
+    },
+    {
+      "kind": "person",
+      "id": "v-narayanan",
+      "title": "V. Narayanan",
+      "subtitle": "Chairman, ISRO (2025–present)"
+    },
+    {
+      "kind": "person",
+      "id": "ritu-karidhal",
+      "title": "Ritu Karidhal",
+      "subtitle": "Mission Director, Chandrayaan-3"
+    },
+    {
+      "kind": "person",
+      "id": "muthayya-vanitha",
+      "title": "Muthayya Vanitha",
+      "subtitle": "Project Director, Chandrayaan-2"
+    }
+  ]
+}
